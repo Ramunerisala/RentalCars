@@ -1,0 +1,39 @@
+div .header{
+    background-color:rgba(0,0,255,1);
+    
+    color:white;
+    text-align:center;
+    
+    
+    display:flex;
+    
+};
+
+div .header h2{
+    color:'black';margin-left:'500px';margin-right:'200px'
+};
+
+.Table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .Table th, .Table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .Table th {
+    background-color: #f2f2f2;
+  }
+  
+  .Table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+
+
